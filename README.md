@@ -13,7 +13,7 @@ I'm a passionate software developer with a love for creating innovative solution
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-<img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
 <img src="https://img.shields.io/badge/Code-HTML5-red?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,7 +21,7 @@ I'm a passionate software developer with a love for creating innovative solution
 <img src="https://img.shields.io/badge/Tools-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Tools-Git-blue?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" /> -->
 </p>
 
 ## 📈 GitHub Stats
