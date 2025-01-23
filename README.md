@@ -6,8 +6,8 @@ I'm a passionate software developer with a love for creating innovative solution
 
 - 🌱 I’m currently learning advanced algorithms and data structures.
 - 👯 I’m looking to collaborate on open source projects.
-- 🤔 I’m looking for help with improving my skills in machine learning.
-- 💬 Ask me about web development, Python, and JavaScript.
+- 🤔 I’m looking for help with improving my skills in.
+- 💬 Ask me about web development, and JavaScript.
 - ⚡ Fun fact: I love playing chess and solving puzzles.
 
 ## 🛠️ Technologies & Tools
