@@ -15,7 +15,7 @@ I'm a passionate software developer with a love for creating innovative solution
 <p align="left">
 <!-- <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Code-HTML5-red?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react&logoColor=white" />
