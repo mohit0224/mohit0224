@@ -4,7 +4,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## 🚀 About Me
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=mohit0224&theme=gruvbox&no-bg=true&title=Commits,Repositories,Experience&margin-w=10)](https://github.com/mohit0224/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=mohit0224&theme=gruvbox&no-bg=true&title=Repositories,Commits,Experience&margin-w=10)](https://github.com/mohit0224/)
 
 
 
