@@ -38,7 +38,7 @@ I'm a passionate software developer with a love for creating innovative solution
 
 ## 📫 How to reach me
 
-- LinkedIn: [linkedin.com/in/mohit0224](https://linkedin.com/in/mohit0224)
+- LinkedIn: [linkedin.com/in/mohit-dheer](https://linkedin.com/in/mohit-dheer)
 - Email: mohitdheer24@gmail.com
 
 ## 📝 Latest Blog Posts
