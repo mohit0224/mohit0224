@@ -32,7 +32,7 @@ I'm a passionate software developer with a love for creating innovative solution
 ## 📈 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mohit0224&show_icons=true&theme=radical" alt="mohit0224's GitHub stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mohit0224&show_icons=true&theme=radical" alt="mohit0224's GitHub stats" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit0224&layout=compact&theme=radical" alt="mohit0224's top languages" />
 </p>
 
